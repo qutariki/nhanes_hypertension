@@ -7,14 +7,14 @@ The task is to predict potential hypertensive patients using the data available 
 
 The following data is used for the preliminary data analysis and the training of the models:
 
--BPX (non-oscillometric blood pressure)
--BMX (body measurements)
--DEMO (demographics information)
--BPQ (blood pressure questionnaire)
--DIQ (diabetes questionnaire)
--SMQ (smoking questionnaire)
--ALQ (alcohol questionnaire)
--PAQ (physical activity questionnaire)
+- BPX (non-oscillometric blood pressure)
+- BMX (body measurements)
+- DEMO (demographics information)
+- BPQ (blood pressure questionnaire)
+- DIQ (diabetes questionnaire)
+- SMQ (smoking questionnaire)
+- ALQ (alcohol questionnaire)
+- PAQ (physical activity questionnaire)
 
 ## Table of Contents
 - [Installation](#installation)
