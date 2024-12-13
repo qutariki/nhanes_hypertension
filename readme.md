@@ -21,7 +21,7 @@ The following data is used for the preliminary data analysis and the training of
 - [Usage](#usage)
 
 ## Installation
-Provide step-by-step instructions on how to install or set up your project.
+Pull the repo and install the required libraries.
 
 ```bash
 git clone https://github.com/nhanes_hypertension.git
