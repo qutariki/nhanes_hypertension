@@ -1,3 +1,6 @@
-./outs
-./submission
-./download
+/.DS_Store
+/outs
+/submission
+/download
+*.csv
+*.txt
